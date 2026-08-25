@@ -1,0 +1,19 @@
+# Java / Spring Boot
+Ecomm/target/
+Ecomm/.idea/
+Ecomm/*.iml
+
+# IDE
+.idea/
+*.iml
+
+# Environment / secrets
+.env
+application-local.properties
+
+# Node, if frontend uses npm
+Ecomm-Ui/node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
