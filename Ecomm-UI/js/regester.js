@@ -1,4 +1,4 @@
-/*const BASE_URL = "http://localhost:8080";
+/*
 
 document
     .getElementById("registerForm")
@@ -60,7 +60,7 @@ async function registerUser(e) {
 
 }*/
 
-const BASE_URL = "http://localhost:8080";
+
 
 document
     .getElementById("registerForm")
